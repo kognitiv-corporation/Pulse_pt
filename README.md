@@ -1,9 +1,11 @@
-# Ignite-PT
+# Pulse-PT
 
-These are the final 5 Ignite REST endpoints - Arrived by analyzing the Production traffic through Azure Application Insights and carrying out the workload modeling.
+These are the final 5 Pulse REST endpoints - Arrived by analyzing the Production traffic through Azure Application Insights and carrying out the workload modeling.
 
-- 01_Get all campaign
-- 02_Get Master Data
-- 03_Get Product list
-- 04_Get GDM Product data
-- 05_Save campaign 
+- data : sj movement Folder ( Smart Journey D3 Report related endpoint )
+- filter list : sj movement Folder ( Smart Journey D3 Report related endpoint )
+- Get schedule audience list
+- schedule audience create
+- schedule audience update
+- schedule audience delete
+- diagnose tab view
