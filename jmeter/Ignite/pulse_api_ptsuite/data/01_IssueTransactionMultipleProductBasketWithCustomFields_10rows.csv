@@ -1,0 +1,11 @@
+p_03_Internalmem_id,p_03_memberAccountId,p_03_E_LocationReference,p_03_TTypeExt_Reference,p_03_TransactionExternalRef,p_03_prodExt_Reference,p_03_BaseItemQty,p_03_BasketTotalIprice,p_03_BasketTotalIpoints,p_03_BasketTotalIprofit,p_03_Duplicate_transaction,p_03_Missing_ProdItem,p_03_UpdatedMember_points total,p_03_Promotion_Success,p_03_Custom_External_reference,p_03_CheckBox_value,p_03_Integer_Value,p_03_Money_value,p_03_Text_Value,p_03_List_Value,p_03_Date_value,p_03_Dropdown Value,p_03_MultipleSelected_Value,p_03_MultipleSelected_Value
+2002107,584,1,SravTran1Ex,T,Product Item 1 for E,5,16.5,8.25,3.3,0,1,1,0,PTCustom_Ex,1,4,8,16,32,64,2,256,256
+2002108,3857,2,SravTran1Ex,T,Product Item 2 for E,3,7.92,3.96,1.584,0,1,1,0,PTCustom_Ex,1,4,8,16,32,64,2,256,256
+2002109,6109,3,SravTran1Ex,T,Product Item 3 for E,4,10.56,5.28,2.112,0,1,1,0,PTCustom_Ex,1,4,8,16,32,64,2,256,256
+2002110,1452,4,SravTran1Ex,T,Product Item 4 for E,8,36.96,18.48,7.392,0,1,1,0,PTCustom_Ex,1,4,8,16,32,64,2,256,256
+2002111,7163,5,SravTran1Ex,T,Product Item 5 for E,5,29.7,14.85,5.94,0,1,1,0,PTCustom_Ex,0,4,8,16,32,64,2,256,256
+2002112,9004,6,SravTran1Ex,T,Product Item 6 for E,10,19.8,9.9,3.96,0,1,1,0,PTCustom_Ex,0,4,8,16,32,64,2,256,256
+2002113,138,7,SravTran1Ex,T,Product Item 7 for E,5,33,16.5,6.6,0,1,1,0,PTCustom_Ex,0,4,8,16,32,64,2,256,256
+2002114,6600,8,SravTran1Ex,T,Product Item 8 for E,1,5.28,2.64,1.056,0,1,1,0,PTCustom_Ex,1,4,8,16,32,64,2,256,256
+2002115,6660,9,SravTran1Ex,T,Product Item 9 for E,1,6.6,3.3,1.32,0,1,1,0,PTCustom_Ex,0,4,8,16,32,64,2,256,256
+2002116,6976,10,SravTran1Ex,T,Product Item 10,4,7.92,3.96,1.584,0,1,1,0,PTCustom_Ex,0,4,8,16,32,64,2,256,256
